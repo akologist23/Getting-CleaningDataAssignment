@@ -39,138 +39,138 @@ values:
 5 STANDING
 6 LAYING
 
-## 3-5 tBodyAcc-mean()-XYZ
+## 3-5 tBodyAccMeanXYZ
 ### Mean calculated for accelerometer signals from body captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 6-8 tBodyAcc-std()-XYZ
+## 6-8 tBodyAccStdXYZ
 ### Standard deviation calcuated for accelerometer signals from body captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 9-11 tGravityAcc-mean()-XYZ
+## 9-11 tGravityAccMeanXYZ
 ### Mean calculated for accelerometer signals from gravity captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 12-14 tGravityAcc-std()-XYZ
+## 12-14 tGravityAccStdXYZ
 ### Standard deviation for accelerometer signals from gravity captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 15-17 tBodyAccJerk-mean()-XYZ
+## 15-17 tBodyAccJerkMeanXYZ
 ### Mean for accelerometer signals during linear body acceleration captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 18-20 tBodyAccJerk-std()-XYZ
+## 18-20 tBodyAccJerkStdXYZ
 ### Standard deviation for accelerometer signals during linear body acceleration captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 21-23 tBodyGyro-mean()-XYZ
+## 21-23 tBodyGyroMeanXYZ
 ### Mean for gyroscope signals from body captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 24-26 tBodyGyro-std()-XYZ
+## 24-26 tBodyGyroStdXYZ
 ### Standard deviation for gyroscope signals from body captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 27-29 tBodyGyroJerk-mean()-XYZ
+## 27-29 tBodyGyroJerkMeanXYZ
 ### Mean for gyroscope signals from body angular velocity captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 30-32 tBodyGyroJerk-std()-XYZ
+## 30-32 tBodyGyroJerkStdXYZ
 ### Standard deviation for gyroscope signals from body angular velocity captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 33 tBodyAccMag-mean()
+## 33 tBodyAccMagMean
 ### Mean for magnitude of accelerometer signals from body captured at constant rate.Measurement of signals made in units of g and normalized and bounded within [-1,1]. 
 values: -1,1
 
-## 34 tBodyAccMag-std()
+## 34 tBodyAccMagStd
 ### Standard deviation for magnitude of accelerometer signals from body captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. 
 values: -1,1
 
-## 35 tGravityAccMag-mean()
+## 35 tGravityAccMagMean
 ### Mean for magnitude of accelerometer signals from gravity captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. 
 values: -1,1
 
-## 36 tGravityAccMag-std()
+## 36 tGravityAccMagStd
 ### Standard deviation for magnitude of accelerometer signals from gravity captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1].
 values: -1,1
 
-## 37 tBodyAccJerkMag-mean()
+## 37 tBodyAccJerkMagMean
 ### Mean for magnitude of accelerometer signals from during body linear acceleration captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1].
 values: -1,1
 
-## 38 tBodyAccJerkMag-std()
+## 38 tBodyAccJerkMagStd
 ### Standard deviation for magnitude of accelerometer signals during body linear acceleration captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1].
 values: -1,1
 
-## 39 tBodyGyroMag-mean()
+## 39 tBodyGyroMagMean
 ### Mean for magnitude of gyroscope signals from body captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1].
 values: -1,1
 
-## 40 tBodyGyroMag-std()
+## 40 tBodyGyroMagStd
 ### Standard deviation for magnitude of gyroscope signals from body captured at constant rate.Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. 
 values: -1,1
 
-## 41 tBodyGyroJerkMag-mean()
+## 41 tBodyGyroJerkMagMean
 ### Mean for magnitude of gyroscope signals from body angular velocity captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. 
 values: -1,1
 
-## 42 tBodyGyroJerkMag-std()
+## 42 tBodyGyroJerkMagStd
 ### Standard deviation for magnitude of gyroscope signals from body angular velocity captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1].
 values: -1,1
 
-## 43-45 fBodyAcc-mean()-XYZ
+## 43-45 fBodyAccMeanXYZ
 ### Mean for accelerometer frequency domain signals from body captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 46-48 fBodyAcc-std()-XYZ
+## 46-48 fBodyAccStdXYZ
 ### Standard deviation for accelerometer frequency domain signals from body captured at constant rate.Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 49-51 fBodyAccJerk-mean()-XYZ
+## 49-51 fBodyAccJerkMeanXYZ
 ### Mean for accelerometer frequency domain signals from body linear acceleration captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 52-54 fBodyAccJerk-std()-XYZ
+## 52-54 fBodyAccJerkStdXYZ
 ### Standard deviation for accelerometer frequency domain signals from body linear acceleration captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 55-57 fBodyGyro-mean()-XYZ
+## 55-57 fBodyGyroMeanXYZ
 ### Mean for gyroscope frequency domain signals from body captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 58-60 fBodyGyro-std()-XYZ
+## 58-60 fBodyGyroStdXYZ
 ### Standard deviation for gyroscope frequency domain signals from body captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
 values: -1,1
 
-## 61 fBodyAccMag-mean()
+## 61 fBodyAccMagMean
 ### Mean for magnitude of accelerometer frequency domain signals from body captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1].
 values: -1,1
 
-## 62 fBodyAccMag-std()
+## 62 fBodyAccMagStd
 ### Standard deviation for the magnitude of accelerometer frequency domain signals from body captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1].
 values: -1,1
 
-## 63 fBodyAccJerkMag-mean()
+## 63 fBodyAccJerkMagMean
 ### Mean for magnitude of accelerometer frequency domain signals from body linear acceleration captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1].
 values: -1,1
 
-## 64 fBodyAccJerkMag-std()
+## 64 fBodyAccJerkMagStd
 ### Standard deviation for the magnitude of accelerometer frequency domain signals from body linear acceleration captured at constant rate. Measurement of signals made in units of g and normalized and bounded within [-1,1]. 
 values: -1,1
 
-## 65 fBodyGyroMag-mean()
+## 65 fBodyGyroMagMean
 ### Mean for magnitude of gyroscope frequency domain signals from body captured at constant rate.Measurement of signals made in units of rad/s and normalized and bounded within [-1,1]. 
 values: -1,1
 
-## 66 fBodyGyroMag-std()
+## 66 fBodyGyroMagStd
 ### Standard deviation for the magnitude of gyroscope frequency domain signals from body captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1].
 values: -1,1
 
-## 67 fBodyGyroJerkMag-mean()
+## 67 fBodyGyroJerkMagMean
 ### Mean for magnitude of gyroscope frequency domain signals from body angular velocity captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1].
 values: -1,1
 
-## 68 fBodyGyroJerkMag-std()
+## 68 fBodyGyroJerkMagStd
 ### Standard deviation for the magnitude of gyroscope frequency domain signals from body angular velocity captured at constant rate. Measurement of signals made in units of rad/s and normalized and bounded within [-1,1].
 values: -1,1
