@@ -1,4 +1,4 @@
-#TidyData Codebook
+# TidyData Codebook
 
 Accelerometer data collected with the Samsung Galaxy smartphone
 ----------------------------------------------------------------
